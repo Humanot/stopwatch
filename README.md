@@ -7,3 +7,4 @@ Stopwatch app test cases:
 | 03 | Reset timer | Start time > Wait > Reset | The timer result is cleared up to 00:00.0 |
 
 **Test cases** are in test package.
+**Fixture & methods** are in application package.
